@@ -1,6 +1,6 @@
 ### Graph Neural Network
 ##### Articles
-- [](https://towardsdatascience.com/graph-convolutional-networks-on-node-classification-2b6bbec1d042)
+- [Getting the Intuition of Graph Neural Networks](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
 
 
 ### Graph Convolutional Network
