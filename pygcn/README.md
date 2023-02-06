@@ -1,3 +1,5 @@
+### [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
+
 Get the [environment.yml](https://github.com/Shakib-IO/Graph-Network/blob/Basic_GNN/environment.yml)
 ```
 conda update conda
