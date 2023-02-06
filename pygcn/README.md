@@ -1,3 +1,10 @@
+Get the [environment.yml](https://github.com/Shakib-IO/Graph-Network/blob/Basic_GNN/environment.yml)
+```
+conda update conda
+conda env create -f environment.yml
+conda activate pyg 
+```
+
 ```
 python train.py
 ```
