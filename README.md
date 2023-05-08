@@ -16,4 +16,4 @@
 
 
 ## Blogs
--[Sumit Kumar](https://blog.reachsumit.com/)
+- [Sumit Kumar](https://blog.reachsumit.com/)
