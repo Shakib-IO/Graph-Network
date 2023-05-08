@@ -13,3 +13,7 @@
 
 ### Book
 - [Graph Representation Learning.pdf](https://github.com/Shakib-IO/Graph-Network/files/9847890/GRL_Book.pdf)
+
+
+## Blogs
+-[Sumit Kumar](https://blog.reachsumit.com/)
