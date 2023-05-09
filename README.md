@@ -5,6 +5,7 @@
 
 ### Graph Convolutional Network
 - [Graph Convolutional Networks](https://mlabonne.github.io/blog/posts/2022-02-20-graph_convolution_network.html)
+- [Exercise](https://cgi.cse.unsw.edu.au/~cs9312/22T2/project/index.html)
 
 
 ##### Articles
