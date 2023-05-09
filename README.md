@@ -1,6 +1,7 @@
 ### Graph Neural Network
 ##### Articles
 - [Getting the Intuition of Graph Neural Networks](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
+- [MatterMost.com]()https://mattermost.com/blog/graph-neural-networks/
 
 
 ### Graph Convolutional Network
