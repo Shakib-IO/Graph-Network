@@ -2,7 +2,7 @@
 ##### Articles
 - [Getting the Intuition of Graph Neural Networks](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
 - [MatterMost.com](https://mattermost.com/blog/graph-neural-networks/)
-
+- [Scaler](https://www.scaler.com/topics/deep-learning/pytorch-geometric/)
 
 ### Graph Convolutional Network
 - [Graph Convolutional Networks](https://mlabonne.github.io/blog/posts/2022-02-20-graph_convolution_network.html)
