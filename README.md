@@ -14,6 +14,7 @@
 - [Training Graph Convolutional Networks on Node Classification Task](https://towardsdatascience.com/graph-convolutional-networks-on-node-classification-2b6bbec1d042)
 - [Semi-Supervised Learning with Spectral Graph Convolutions](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0)
 - [Link Prediction in Bipartite Graph](https://towardsdatascience.com/link-prediction-in-bipartite-graph-ad766e47d75c)
+- [Sampling-based Graph Neural Networks](https://cogdl.ai/gnn2022/courseware/L5_sampling_based_graph_neural_networks.pdf)
 
 ### Book
 - [Graph Representation Learning.pdf](https://github.com/Shakib-IO/Graph-Network/files/9847890/GRL_Book.pdf)
