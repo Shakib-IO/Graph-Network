@@ -19,6 +19,8 @@
 ##### Course
 - [Cogdl.ai](https://cogdl.ai/gnn2022/)
 
+##### Author
+- [Michael Bronstein](https://michael-bronstein.medium.com/)
 
 ### Book
 - [Graph Representation Learning.pdf](https://github.com/Shakib-IO/Graph-Network/files/9847890/GRL_Book.pdf)
