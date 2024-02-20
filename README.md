@@ -17,6 +17,7 @@
 - [Sampling-based Graph Neural Networks](https://cogdl.ai/gnn2022/courseware/L5_sampling_based_graph_neural_networks.pdf)
 - [Graph Deep Learning](https://towardsdatascience.com/graph-deep-learning/home)
 - [Graph Roadmap](https://asail.gitbook.io/hogwarts/)
+- [Graph & Geometric ML in 2024](https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-i-theory-architectures-3af5d38376e1)
 
 ##### Course
 - [Cogdl.ai](https://cogdl.ai/gnn2022/)
