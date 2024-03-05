@@ -21,6 +21,7 @@
 
 ##### Course
 - [Cogdl.ai](https://cogdl.ai/gnn2022/)
+- [GDL Course](https://geometricdeeplearning.com/lectures/)
 
 ##### Author
 - [Michael Bronstein](https://michael-bronstein.medium.com/)
